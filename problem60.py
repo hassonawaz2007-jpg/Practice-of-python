@@ -1,3 +1,5 @@
+#write a porogram to find out that in which no line oython is written
+
 with open("log.txt") as f:
     lines=f.readlines()
     

@@ -1,3 +1,5 @@
+#write a porogram to make a copy of a file text "this.txt"
+
 with open("this.txt") as f:
     content=f.read()
 
